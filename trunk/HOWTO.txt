@@ -1,0 +1,8 @@
+The main application does not need any additional libraries (except of course the android libraries). 
+It is linked against API-Level 10 (Android 2.3.3) although the minSdkVersion attribute is set to 7 (Android 2.1). 
+
+This might give a warning, but it is necessary to support both older devices and new features like App2SD on newer devices (those features are silently ignored on older devices, so it is no problem).
+
+To compile the Unit tests, the Robotium test framework (Version 3.1 or newer) needs to be included in the build path of the project. The library itself is included (in the libs folder) in the sources but can also be downloaded at http://code.google.com/p/robotium/.
+
+The Unit tests are linked against API-Level 7 (Android 2.1) but they should also work with newer API-Levels. 
