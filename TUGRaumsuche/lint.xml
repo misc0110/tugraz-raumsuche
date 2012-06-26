@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="BackButton" severity="warning" />
+    <issue id="FieldGetter" severity="warning" />
+    <issue id="IconDensities" severity="ignore" />
+    <issue id="IconExpectedSize" severity="warning" />
+    <issue id="Overdraw" severity="ignore" />
+    <issue id="TypographyQuotes" severity="warning" />
+    <issue id="UnusedIds" severity="ignore" />
+    <issue id="UseCompoundDrawables" severity="ignore" />
+    <issue id="UselessParent" severity="ignore">
+        <ignore path="res/layout-land/mainscreen.xml" />
+        <ignore path="res/layout/mainscreen.xml" />
+    </issue>
+</lint>

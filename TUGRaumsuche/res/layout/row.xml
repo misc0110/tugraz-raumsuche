@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="6dip" >
+
+    <LinearLayout
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="roomClick"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/toptext"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="marquee"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:textColor="#000000"
+            android:textSize="14pt"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/bottomtext"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="marquee"
+            android:singleLine="true"
+            android:textColor="#606060" />
+
+        <TextView
+            android:id="@+id/raumnummer"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/icon"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="4dp"
+        android:background="@android:color/transparent"
+        android:drawableTop="@drawable/favorites_small_disabled"
+        android:onClick="favoriteClick" />
+
+</LinearLayout>

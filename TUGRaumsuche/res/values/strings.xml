@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TU Graz Raumsuche</string>
+    <string name="button_hoersaal">Hörsäle</string>
+    <string name="button_favoriten">Favoriten</string>
+    <string name="button_seminar">Seminarräume</string>
+    <string name="button_zeichen">Zeichensäle</string>
+    <string name="button_labor">Labore</string>
+    <string name="button_einstellungen">Einstellungen</string>
+    <string name="titlebar_main">TU Graz Raumsuche</string>
+    <string name="titlebar_hoersaal">Hörsäle</string>
+    <string name="titlebar_labor">Labore</string>
+    <string name="titlebar_seminar">Seminarräume</string>
+    <string name="titlebar_favoriten">Favoriten</string>
+    <string name="titlebar_zeichen">Zeichensäle</string>
+    <string name="titlebar_sett">Einstellungen</string>
+    <string name="titlebar_suche">Suche</string>
+    <string name="please_wait">Bitte warten…</string>
+    <string name="loading_data_online">Lade Daten von TU Graz Online…</string>
+    <string name="loading_data">Lade Daten…</string>
+    <string name="type_to_filter">Filter…</string>
+    <string name="type_to_search">Suche…</string>
+    <string name="map_map">Lageplan zeigen</string>
+    <string name="map_room">Raumplan zeigen</string>
+    <string name="map_route">Route berechnen</string>
+    <string name="map_maps">Auf Karte zeigen</string>
+    <string name="cat_info">Info</string>
+    <string name="cat_search">Suche</string>
+    <string name="cat_usage">Verwendung</string>
+    <string name="cat_data">Daten</string>
+    <string name="cat_location">Lage</string>
+    <string name="about">Über</string>
+    <string name="mark_time">Aktuelle Zeit markieren</string>
+    <string name="mark_time_desc">Aktuelle Zeit im Zeitplan markieren</string>
+    <string name="search_hoersaal">Hörsäle durchsuchen</string>
+    <string name="search_labore">Labore durchsuchen</string>
+    <string name="search_zeichen">Zeichensäle durchsuchen</string>
+    <string name="search_seminar">Seminarräume durchsuchen</string>
+    <string name="tab_detail">Details</string>
+    <string name="tab_map">Lage</string>
+    <string name="tab_usage">Verwendung</string>
+    <string name="detail_location">Ort</string>
+    <string name="detail_roomcode">Raumcode</string>
+    <string name="detail_seats">Sitzplätze</string>
+    <string name="detail_equipment">Ausstattung</string>
+    <string name="detail_name">Name</string>
+    <string name="update_notification">TU Graz Raumsuche Update</string>
+    <string name="update_data">Aktualisieren</string>
+    <string name="update_data_desc">Rauminformationen aktualisieren</string>
+    <string name="reset_database">Datenbank zurücksetzen</string>
+    <string name="reset_database_desc">Löscht alle Updates und stellt die originale Datenbank wieder her</string>
+    <string name="update_running">Update läuft…</string>
+    <string name="update_cancel">Klicken um Update abzubrechen</string>
+    <string name="update_remind">Auf Updates hinweisen</string>
+    <string name="update_remind_desc">Alle 90 Tage einen Update-Hinweis anzeigen</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="update_title">Update</string>
+    <string name="update_message_1">Das letzte Update der Raumdaten liegt </string>
+    <string name="update_message_2"> Tage zurück. Möchten Sie jetzt updaten?</string>
+    <string name="no_internet_connection">Keine Internetverbindung vorhanden!</string>
+    <string name="do_not_ask_again">nicht mehr fragen</string>
+    <string name="progress_image">Fortschritt</string>
+
+    <string-array name="room_categories">
+        <item>Hörsaal</item>
+        <item>Besprechungsraum</item>
+        <item>Konferenzraum</item>
+        <item>Labor</item>
+        <item>Seminarraum</item>
+        <item>Zeichensaal</item>
+    </string-array>
+
+    <string name="room_cat_hoersaal">Hörsaal</string>
+    <string name="room_cat_seminarraum">Seminarraum</string>
+    <string name="room_cat_labor">Labor</string>
+    <string name="room_cat_zeichensaal">Zeichensaal</string>
+    <string name="update_url">http://search-proxy.tugraz.at/search/onebox/all_rooms.zip</string>
+    <string name="date_format">dd.MM.yyyy</string>
+    <string name="map_instead_of_route">Karte statt Route</string>
+    <string name="map_instead_of_route_desc">Kartenansicht anstatt Route planen</string>
+    <string name="warning">Warnung</string>
+    <string name="really_reset_db">Möchten Sie die Datenbank wirklich zurücksetzen? Dabei werden alle Updates unwiderruflich gelöscht.</string>
+    <string name="database_reset">Datenbank wurde zurückgesetzt</string>
+    <string name="copyright_msg">Copyright © 2012 by Team4Win - Alle Rechte vorbehalten\n\nEntwickler:\nMichael Schwarz\nMark Bergmoser\nChristopher Kaponig\nStefan More\n\nApp-Icon:\nValerie Grafl\nLisa-Marie Ertl\n\nCourse:\nSoftware 2012 @ Graz University of Technology\n\nSupervisor:\nWolfgang Slany\n\nLetztes Update: </string>
+    <string name="no_data">-</string>
+    <string name="photo_of_building">Foto des Gebäudes</string>
+    <string name="tu_logo">TU Graz Logo</string>
+</resources>
