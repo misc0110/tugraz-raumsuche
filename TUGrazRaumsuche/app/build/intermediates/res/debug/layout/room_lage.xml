@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="0dip" >
+
+    <com.team4win.tugroom.ZoomImageView
+        android:id="@+id/img_lage"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:src="@drawable/icon" />
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/searchbar" >
+
+        <TableRow android:layout_weight="1" >
+
+            <Button
+                android:id="@+id/start_navi"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="12dp"
+                android:background="@drawable/btn_bar"
+                android:drawableLeft="@drawable/route"
+                android:text="@string/map_route" />
+
+            <Button
+                android:id="@+id/toggle_plan"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/btn_bar"
+                android:drawableLeft="@drawable/location"
+                android:text="@string/map_map" />
+        </TableRow>
+    </TableLayout>
+
+</FrameLayout><!-- From: file:/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/layout/room_lage.xml -->

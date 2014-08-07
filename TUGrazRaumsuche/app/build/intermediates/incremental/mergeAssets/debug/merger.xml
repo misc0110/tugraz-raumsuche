@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets" >
+            <file
+                name="68875.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/68875.gif" />
+            <file
+                name="56875.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/56875.gif" />
+            <file
+                name="56829.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/56829.gif" />
+            <file
+                name="126768.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/126768.gif" />
+            <file
+                name="134040.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/134040.gif" />
+            <file
+                name="207641.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/207641.gif" />
+            <file
+                name="211797.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/211797.gif" />
+            <file
+                name="211939.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/211939.gif" />
+            <file
+                name="71491.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/71491.gif" />
+            <file
+                name="50861.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/50861.gif" />
+            <file
+                name="68961.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/68961.gif" />
+            <file
+                name="194489.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/194489.gif" />
+            <file
+                name="98835.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/98835.gif" />
+            <file
+                name="67474.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/67474.gif" />
+            <file
+                name="139118.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/139118.gif" />
+            <file
+                name="49070.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/49070.gif" />
+            <file
+                name="211818.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/211818.gif" />
+            <file
+                name="207616.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/207616.gif" />
+            <file
+                name="145933.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/145933.gif" />
+            <file
+                name="238340.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/238340.gif" />
+            <file
+                name="90964.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/90964.gif" />
+            <file
+                name="199481.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/199481.gif" />
+            <file
+                name="116784.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/116784.gif" />
+            <file
+                name="68888.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/68888.gif" />
+            <file
+                name="78195.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/78195.gif" />
+            <file
+                name="68925.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/68925.gif" />
+            <file
+                name="67386.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/67386.gif" />
+            <file
+                name="125291.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/125291.gif" />
+            <file
+                name="218680.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/218680.gif" />
+            <file
+                name="158734.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/158734.gif" />
+            <file
+                name="lageplaene/Inffeldgasse15.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse15.gif" />
+            <file
+                name="lageplaene/Petersgasse.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Petersgasse.gif" />
+            <file
+                name="lageplaene/Inffeldgasse16c.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse16c.gif" />
+            <file
+                name="lageplaene/Technikerstrasse4.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Technikerstrasse4.gif" />
+            <file
+                name="lageplaene/Inffeldgasse21B.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse21B.gif" />
+            <file
+                name="lageplaene/Stremayrgasse10.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Stremayrgasse10.gif" />
+            <file
+                name="lageplaene/Schloegelgasse9.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Schloegelgasse9.gif" />
+            <file
+                name="lageplaene/Mandellstrasse15.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Mandellstrasse15.gif" />
+            <file
+                name="lageplaene/Kopernikusgasse24.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Kopernikusgasse24.gif" />
+            <file
+                name="lageplaene/Brueckenkopfgasse1.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Brueckenkopfgasse1.gif" />
+            <file
+                name="lageplaene/Inffeldgasse31.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse31.gif" />
+            <file
+                name="lageplaene/Inffeldgasse21.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse21.gif" />
+            <file
+                name="lageplaene/Inffeldgasse21A.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse21A.gif" />
+            <file
+                name="lageplaene/Lustbuehelstrasse46.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Lustbuehelstrasse46.gif" />
+            <file
+                name="lageplaene/Inffeldgasse24.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse24.gif" />
+            <file
+                name="lageplaene/Kronesgasse5.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Kronesgasse5.gif" />
+            <file
+                name="lageplaene/Inffeldgasse25E.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse25E.gif" />
+            <file
+                name="lageplaene/Plueddemanngasse.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Plueddemanngasse.gif" />
+            <file
+                name="lageplaene/Inffeldgasse25A.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse25A.gif" />
+            <file
+                name="lageplaene/Inffeldgasse18.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse18.gif" />
+            <file
+                name="lageplaene/Inffeldgasse25C.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse25C.gif" />
+            <file
+                name="lageplaene/Lessingstrasse25.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Lessingstrasse25.gif" />
+            <file
+                name="lageplaene/Steyrergasse21.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Steyrergasse21.gif" />
+            <file
+                name="lageplaene/Inffeldgasse25D.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse25D.gif" />
+            <file
+                name="lageplaene/Brockmanngasse29.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Brockmanngasse29.gif" />
+            <file
+                name="lageplaene/Krenngasse37.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Krenngasse37.gif" />
+            <file
+                name="lageplaene/Inffeldgasse16b.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse16b.gif" />
+            <file
+                name="lageplaene/Hilmteichstrasse104.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Hilmteichstrasse104.gif" />
+            <file
+                name="lageplaene/Lessingstrasse27.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Lessingstrasse27.gif" />
+            <file
+                name="lageplaene/Inffeldgasse25F.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse25F.gif" />
+            <file
+                name="lageplaene/Inffeldgasse16.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse16.gif" />
+            <file
+                name="lageplaene/Muenzgrabenstrasse37.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Muenzgrabenstrasse37.gif" />
+            <file
+                name="lageplaene/Steyrergasse17.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Steyrergasse17.gif" />
+            <file
+                name="lageplaene/Inffeldgasse26.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse26.gif" />
+            <file
+                name="lageplaene/Mandellstrasse9.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Mandellstrasse9.gif" />
+            <file
+                name="lageplaene/Steyrergasse30.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Steyrergasse30.gif" />
+            <file
+                name="lageplaene/Belgiergasse6.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Belgiergasse6.gif" />
+            <file
+                name="lageplaene/Muenzgrabenstrasse11.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Muenzgrabenstrasse11.gif" />
+            <file
+                name="lageplaene/Stremayrgasse.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Stremayrgasse.gif" />
+            <file
+                name="lageplaene/Rechbauerstrasse12.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Rechbauerstrasse12.gif" />
+            <file
+                name="lageplaene/Inffeldgasse13.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse13.gif" />
+            <file
+                name="lageplaene/Stremayrgasse16.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Stremayrgasse16.gif" />
+            <file
+                name="lageplaene/Inffeldgasse16a.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse16a.gif" />
+            <file
+                name="lageplaene/Inffeldgasse19.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse19.gif" />
+            <file
+                name="lageplaene/Inffeldgasse10.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse10.gif" />
+            <file
+                name="lageplaene/Inffeldgasse25B.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse25B.gif" />
+            <file
+                name="lageplaene/Inffeldgasse11.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse11.gif" />
+            <file
+                name="lageplaene/Plueddemanngasse104.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Plueddemanngasse104.gif" />
+            <file
+                name="lageplaene/Mandellstrasse11.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Mandellstrasse11.gif" />
+            <file
+                name="lageplaene/Inffeldgasse23.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse23.gif" />
+            <file
+                name="lageplaene/Petersgasse116-118.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Petersgasse116-118.gif" />
+            <file
+                name="lageplaene/Muenzgrabenstrasse35A.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Muenzgrabenstrasse35A.gif" />
+            <file
+                name="lageplaene/Plueddemanngasse106.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Plueddemanngasse106.gif" />
+            <file
+                name="lageplaene/Wastiangasse6.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Wastiangasse6.gif" />
+            <file
+                name="lageplaene/Petersgasse136.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Petersgasse136.gif" />
+            <file
+                name="lageplaene/Inffeldgasse12.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Inffeldgasse12.gif" />
+            <file
+                name="lageplaene/Mandellstrasse13.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/lageplaene/Mandellstrasse13.gif" />
+            <file
+                name="194461.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/194461.gif" />
+            <file
+                name="207209.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/207209.gif" />
+            <file
+                name="211874.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/211874.gif" />
+            <file
+                name="199469.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/199469.gif" />
+            <file
+                name="181049.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/181049.gif" />
+            <file
+                name="238359.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/238359.gif" />
+            <file
+                name="178493.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/178493.gif" />
+            <file
+                name="181373.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/181373.gif" />
+            <file
+                name="71534.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/71534.gif" />
+            <file
+                name="67338.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/67338.gif" />
+            <file
+                name="194484.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/194484.gif" />
+            <file
+                name="50903.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/50903.gif" />
+            <file
+                name="213426.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/213426.gif" />
+            <file
+                name="211782.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/211782.gif" />
+            <file
+                name="56879.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/56879.gif" />
+            <file
+                name="71471.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/71471.gif" />
+            <file
+                name="75341.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/75341.gif" />
+            <file
+                name="56892.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/56892.gif" />
+            <file
+                name="154018.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/154018.gif" />
+            <file
+                name="56825.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/56825.gif" />
+            <file
+                name="fotos/Mandellstrasse11_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Mandellstrasse11_foto.jpg" />
+            <file
+                name="fotos/Schloegelgasse9_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Schloegelgasse9_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse25A_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse25A_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse25C_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse25C_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse24_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse24_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse25F_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse25F_foto.jpg" />
+            <file
+                name="fotos/Lessingstrasse25_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Lessingstrasse25_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse10_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse10_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse21A_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse21A_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse21B_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse21B_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse15_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse15_foto.jpg" />
+            <file
+                name="fotos/Lessingstrasse27_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Lessingstrasse27_foto.jpg" />
+            <file
+                name="fotos/Technikerstrasse4_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Technikerstrasse4_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse16a_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse16a_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse16_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse16_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse25D_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse25D_foto.jpg" />
+            <file
+                name="fotos/Stremayrgasse10_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Stremayrgasse10_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse18_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse18_foto.jpg" />
+            <file
+                name="fotos/Mandellstrasse15_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Mandellstrasse15_foto.jpg" />
+            <file
+                name="fotos/Steyrergasse17_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Steyrergasse17_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse16c_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse16c_foto.jpg" />
+            <file
+                name="fotos/Kopernikusgasse24_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Kopernikusgasse24_foto.jpg" />
+            <file
+                name="fotos/Mandellstrasse13_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Mandellstrasse13_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse12_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse12_foto.jpg" />
+            <file
+                name="fotos/Steyrergasse21_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Steyrergasse21_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse25E_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse25E_foto.jpg" />
+            <file
+                name="fotos/Petersgasse_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Petersgasse_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse25B_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse25B_foto.jpg" />
+            <file
+                name="fotos/Stremayrgasse16_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Stremayrgasse16_foto.jpg" />
+            <file
+                name="fotos/Krenngasse37_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Krenngasse37_foto.jpg" />
+            <file
+                name="fotos/Steyrergasse30_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Steyrergasse30_foto.jpg" />
+            <file
+                name="fotos/Mandellstrasse9_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Mandellstrasse9_foto.jpg" />
+            <file
+                name="fotos/Inffeldgasse16b_foto.jpg"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/fotos/Inffeldgasse16b_foto.jpg" />
+            <file
+                name="126637.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/126637.gif" />
+            <file
+                name="56900.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/56900.gif" />
+            <file
+                name="238373.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/238373.gif" />
+            <file
+                name="107037.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/107037.gif" />
+            <file
+                name="71483.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/71483.gif" />
+            <file
+                name="154006.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/154006.gif" />
+            <file
+                name="211842.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/211842.gif" />
+            <file
+                name="109190.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/109190.gif" />
+            <file
+                name="68892.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/68892.gif" />
+            <file
+                name="204355.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/204355.gif" />
+            <file
+                name="56755.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/56755.gif" />
+            <file
+                name="90960.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/90960.gif" />
+            <file
+                name="56846.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/56846.gif" />
+            <file
+                name="75374.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/75374.gif" />
+            <file
+                name="116774.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/116774.gif" />
+            <file
+                name="199495.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/199495.gif" />
+            <file
+                name="211937.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/211937.gif" />
+            <file
+                name="Rooms"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/Rooms" />
+            <file
+                name="228935.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/228935.gif" />
+            <file
+                name="218960.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/218960.gif" />
+            <file
+                name="88384.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/88384.gif" />
+            <file
+                name="199499.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/199499.gif" />
+            <file
+                name="136875.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/136875.gif" />
+            <file
+                name="68935.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/68935.gif" />
+            <file
+                name="211925.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/211925.gif" />
+            <file
+                name="204326.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/204326.gif" />
+            <file
+                name="68957.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/68957.gif" />
+            <file
+                name="75335.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/75335.gif" />
+            <file
+                name="238424.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/238424.gif" />
+            <file
+                name="90992.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/90992.gif" />
+            <file
+                name="144708.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/144708.gif" />
+            <file
+                name="155345.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/155345.gif" />
+            <file
+                name="134044.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/134044.gif" />
+            <file
+                name="100048.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/100048.gif" />
+            <file
+                name="211785.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/211785.gif" />
+            <file
+                name="228924.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/228924.gif" />
+            <file
+                name="204360.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/204360.gif" />
+            <file
+                name="56850.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/56850.gif" />
+            <file
+                name="90980.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/90980.gif" />
+            <file
+                name="97623.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/97623.gif" />
+            <file
+                name="218676.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/218676.gif" />
+            <file
+                name="197870.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/197870.gif" />
+            <file
+                name="228965.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/228965.gif" />
+            <file
+                name="125286.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/125286.gif" />
+            <file
+                name="103664.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/103664.gif" />
+            <file
+                name="125259.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/125259.gif" />
+            <file
+                name="204374.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/204374.gif" />
+            <file
+                name="107045.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/107045.gif" />
+            <file
+                name="88373.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/88373.gif" />
+            <file
+                name="80251.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/80251.gif" />
+            <file
+                name="54813.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/54813.gif" />
+            <file
+                name="88320.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/88320.gif" />
+            <file
+                name="120231.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/120231.gif" />
+            <file
+                name="67465.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/67465.gif" />
+            <file
+                name="56837.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/56837.gif" />
+            <file
+                name="199465.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/199465.gif" />
+            <file
+                name="64238.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/64238.gif" />
+            <file
+                name="211905.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/211905.gif" />
+            <file
+                name="71530.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/71530.gif" />
+            <file
+                name="88359.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/88359.gif" />
+            <file
+                name="88344.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/88344.gif" />
+            <file
+                name="60576.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/60576.gif" />
+            <file
+                name="54874.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/54874.gif" />
+            <file
+                name="238344.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/238344.gif" />
+            <file
+                name="234793.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/234793.gif" />
+            <file
+                name="145938.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/145938.gif" />
+            <file
+                name="211838.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/211838.gif" />
+            <file
+                name="75321.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/75321.gif" />
+            <file
+                name="56759.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/56759.gif" />
+            <file
+                name="199505.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/199505.gif" />
+            <file
+                name="56751.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/56751.gif" />
+            <file
+                name="109202.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/109202.gif" />
+            <file
+                name="209456.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/209456.gif" />
+            <file
+                name="211885.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/211885.gif" />
+            <file
+                name="134067.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/134067.gif" />
+            <file
+                name="47710.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/47710.gif" />
+            <file
+                name="68884.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/68884.gif" />
+            <file
+                name="144710.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/144710.gif" />
+            <file
+                name="68863.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/68863.gif" />
+            <file
+                name="50977.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/50977.gif" />
+            <file
+                name="238404.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/238404.gif" />
+            <file
+                name="68896.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/68896.gif" />
+            <file
+                name="90968.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/90968.gif" />
+            <file
+                name="56768.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/56768.gif" />
+            <file
+                name="199484.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/199484.gif" />
+            <file
+                name="205479.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/205479.gif" />
+            <file
+                name="56738.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/56738.gif" />
+            <file
+                name="211870.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/211870.gif" />
+            <file
+                name="191228.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/191228.gif" />
+            <file
+                name="56833.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/56833.gif" />
+            <file
+                name="67469.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/67469.gif" />
+            <file
+                name="50970.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/50970.gif" />
+            <file
+                name="78190.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/78190.gif" />
+            <file
+                name="144714.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/144714.gif" />
+            <file
+                name="109274.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/109274.gif" />
+            <file
+                name="207217.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/207217.gif" />
+            <file
+                name="68929.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/68929.gif" />
+            <file
+                name="88388.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/88388.gif" />
+            <file
+                name="49027.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/49027.gif" />
+            <file
+                name="207213.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/207213.gif" />
+            <file
+                name="134058.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/134058.gif" />
+            <file
+                name="67359.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/67359.gif" />
+            <file
+                name="211914.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/211914.gif" />
+            <file
+                name="50866.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/50866.gif" />
+            <file
+                name="134177.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/134177.gif" />
+            <file
+                name="75329.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/75329.gif" />
+            <file
+                name="109186.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/109186.gif" />
+            <file
+                name="211910.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/211910.gif" />
+            <file
+                name="90988.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/90988.gif" />
+            <file
+                name="109241.gif"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/assets/109241.gif" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/debug/assets" />
+    </dataSet>
+
+</merger>

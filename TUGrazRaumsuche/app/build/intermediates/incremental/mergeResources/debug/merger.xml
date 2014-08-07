@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res" >
+            <file
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style name="NotificationText" >
+                    <item name="android:textColor">
+?android:attr/textColorPrimary
+                    </item>
+                </style>
+
+                <style name="NotificationTitle" >
+                    <item name="android:textColor">
+?android:attr/textColorPrimary
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="titlebar_favoriten" >Favoriten
+                </string>
+                <string name="cat_info" >Info
+                </string>
+                <string name="update_notification" >TU Graz Raumsuche Update
+                </string>
+                <string name="room_cat_hoersaal" >Hörsaal
+                </string>
+                <string name="cat_usage" >Verwendung
+                </string>
+                <string name="map_maps" >Auf Karte zeigen
+                </string>
+                <string name="map_map" >Lageplan zeigen
+                </string>
+                <string name="button_zeichen" >Zeichensäle
+                </string>
+                <string name="room_cat_seminarraum" >Seminarraum
+                </string>
+                <string name="update_data_desc" >Rauminformationen aktualisieren
+                </string>
+                <string name="update_cancel" >Klicken um Update abzubrechen
+                </string>
+                <string name="mark_time" >Aktuelle Zeit markieren
+                </string>
+                <string name="search_hoersaal" >Hörsäle durchsuchen
+                </string>
+                <string name="titlebar_hoersaal" >Hörsäle
+                </string>
+                <string name="room_cat_labor" >Labor
+                </string>
+                <string name="map_route" >Route berechnen
+                </string>
+                <string name="update_running" >Update läuft…
+                </string>
+                <string name="yes" >Ja
+                </string>
+                <string name="no_internet_connection" >Keine Internetverbindung vorhanden!
+                </string>
+                <string name="cat_data" >Daten
+                </string>
+                <string name="type_to_filter" >Filter…
+                </string>
+                <string name="detail_roomcode" >Raumcode
+                </string>
+                <string name="type_to_search" >Suche…
+                </string>
+                <string name="button_labor" >Labore
+                </string>
+                <string name="update_remind_desc" >Alle 90 Tage einen Update-Hinweis anzeigen
+                </string>
+                <string name="reset_database" >Datenbank zurücksetzen
+                </string>
+                <string name="map_instead_of_route_desc" >Kartenansicht anstatt Route planen
+                </string>
+                <string name="no_data" >-
+                </string>
+                <string name="please_wait" >Bitte warten…
+                </string>
+                <string name="map_room" >Raumplan zeigen
+                </string>
+                <string name="search_zeichen" >Zeichensäle durchsuchen
+                </string>
+                <string name="update_message_2" > Tage zurück. Möchten Sie jetzt updaten?
+                </string>
+                <string name="progress_image" >Fortschritt
+                </string>
+                <string name="update_message_1" >Das letzte Update der Raumdaten liegt 
+                </string>
+                <string name="date_format" >dd.MM.yyyy
+                </string>
+                <string name="titlebar_sett" >Einstellungen
+                </string>
+                <string name="button_seminar" >Seminarräume
+                </string>
+                <string name="detail_name" >Name
+                </string>
+                <string name="no" >Nein
+                </string>
+                <string name="button_favoriten" >Favoriten
+                </string>
+                <string name="mark_time_desc" >Aktuelle Zeit im Zeitplan markieren
+                </string>
+                <string name="room_cat_zeichensaal" >Zeichensaal
+                </string>
+                <string name="loading_data_online" >Lade Daten von TU Graz Online…
+                </string>
+                <string name="tab_detail" >Details
+                </string>
+                <string name="tab_map" >Lage
+                </string>
+                <string name="update_data" >Aktualisieren
+                </string>
+                <string name="loading_data" >Lade Daten…
+                </string>
+                <string name="detail_equipment" >Ausstattung
+                </string>
+                <string name="titlebar_zeichen" >Zeichensäle
+                </string>
+                <string name="titlebar_labor" >Labore
+                </string>
+                <string name="map_instead_of_route" >Karte statt Route
+                </string>
+                <string name="button_hoersaal" >Hörsäle
+                </string>
+                <string name="update_title" >Update
+                </string>
+                <string name="about" >Über
+                </string>
+                <string name="detail_seats" >Sitzplätze
+                </string>
+                <string name="cat_search" >Suche
+                </string>
+                <string name="button_einstellungen" >Einstellungen
+                </string>
+                <string name="database_reset" >Datenbank wurde zurückgesetzt
+                </string>
+                <string name="cat_location" >Lage
+                </string>
+                <string name="update_url" >http://search-proxy.tugraz.at/search/onebox/all_rooms.zip
+                </string>
+                <string name="tab_usage" >Verwendung
+                </string>
+                <string name="warning" >Warnung
+                </string>
+                <string name="do_not_ask_again" >nicht mehr fragen
+                </string>
+                <string name="search_labore" >Labore durchsuchen
+                </string>
+                <string name="search_seminar" >Seminarräume durchsuchen
+                </string>
+
+                <string-array name="room_categories" >
+                    <item>
+Hörsaal
+                    </item>
+                    <item>
+Besprechungsraum
+                    </item>
+                    <item>
+Konferenzraum
+                    </item>
+                    <item>
+Labor
+                    </item>
+                    <item>
+Seminarraum
+                    </item>
+                    <item>
+Zeichensaal
+                    </item>
+                </string-array>
+
+                <string name="titlebar_seminar" >Seminarräume
+                </string>
+                <string name="detail_location" >Ort
+                </string>
+                <string name="titlebar_main" >TU Graz Raumsuche
+                </string>
+                <string name="update_remind" >Auf Updates hinweisen
+                </string>
+                <string name="really_reset_db" >Möchten Sie die Datenbank wirklich zurücksetzen? Dabei werden alle Updates unwiderruflich gelöscht.
+                </string>
+                <string name="photo_of_building" >Foto des Gebäudes
+                </string>
+                <string name="app_name" >TU Graz Raumsuche
+                </string>
+                <string name="titlebar_suche" >Suche
+                </string>
+                <string name="reset_database_desc" >Löscht alle Updates und stellt die originale Datenbank wieder her
+                </string>
+                <string name="copyright_msg" >Copyright © 2012 by Team4Win - Alle Rechte vorbehalten\n\nEntwickler:\nMichael Schwarz\nMark Bergmoser\nChristopher Kaponig\nStefan More\n\nApp-Icon:\nValerie Grafl\nLisa-Marie Ertl\n\nCourse:\nSoftware 2012 @ Graz University of Technology\n\nSupervisor:\nWolfgang Slany\n\nLetztes Update: 
+                </string>
+                <string name="tu_logo" >TU Graz Logo
+                </string>
+            </file>
+            <file
+                name="row"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/layout/row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="update_dialog"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/layout/update_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="titlebar"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/layout/titlebar.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="room_detail"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/layout/room_detail.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="mainscreen"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/layout/mainscreen.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="room_usage"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/layout/room_usage.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="update_notification"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/layout/update_notification.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="room_lage"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/layout/room_lage.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="tabs"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/layout/tabs.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="icon"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="mainscreen"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/layout-land/mainscreen.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="icon"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="preferences"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/xml/preferences.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/values-v9/styles.xml"
+                qualifiers="v9" >
+
+                <style
+                    name="NotificationText"
+                    parent="android:TextAppearance.StatusBar.EventContent" />
+
+                <style
+                    name="NotificationTitle"
+                    parent="android:TextAppearance.StatusBar.EventContent.Title" />
+            </file>
+            <file
+                name="route"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/route.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="favorites"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/favorites.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="no_plan"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/no_plan.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="room"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/room.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="speak_pressed"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/speak_pressed.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="tafel"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/tafel.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="table"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/table.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="drawing_pressed"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/drawing_pressed.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="favorites_pressed"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/favorites_pressed.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="labor_pressed"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/labor_pressed.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="drawing"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/drawing.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="favorites_small_disabled"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/favorites_small_disabled.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="details"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/details.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="tulogo"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/tulogo.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="searchbar"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/searchbar.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="background"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/background.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="settings"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/settings.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="speak"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/speak.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="labor"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/labor.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="tafel_pressed"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/tafel_pressed.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="favorites_small"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/favorites_small.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="usage"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/usage.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="location"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/location.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="settings_pressed"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable-mdpi/settings_pressed.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="button_border"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable/button_border.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_favorites"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable/btn_favorites.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_speak"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable/btn_speak.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_bar"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable/btn_bar.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_labor"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable/btn_labor.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button_border_pressed"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable/button_border_pressed.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_settings"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable/btn_settings.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_tafel"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable/btn_tafel.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="btn_drawing"
+                path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/main/res/drawable/btn_drawing.xml"
+                qualifiers=""
+                type="drawable" />
+        </source>
+        <source path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/build/generated/res/rs/debug" />
+        <source path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/media/michael/Data/Projekte/Android/TUGrazRaumsuche/app/src/debug/res" />
+    </dataSet>
+
+</merger>
